@@ -16,6 +16,6 @@
     "mysql": "^2.11.1"
   },
   "scripts":{
-    " start":"node app"
+    "start":"node app"
   }
 }
